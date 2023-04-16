@@ -1,0 +1,27 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Fri Sep 10 21:26:31 2021]}
+samples = 1000
+lines   = 1000
+bands   = 8
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 4601
+y start = 5129
+map info = {UTM, 1.000, 1.000, 418485.000, 9156175.000, 3.0000000000e+001, 3.0000000000e+001, 49, South, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_49S",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",10000000.0],PARAMETER["Central_Meridian",111.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ Resize (Layer (Band 1:LC81200652013175LGN00_B1.TIF):Landsat8Band_12345679), 
+ Resize (Layer (Band 1:LC81200652013175LGN00_B2.TIF):Landsat8Band_12345679), 
+ Resize (Layer (Band 1:LC81200652013175LGN00_B3.TIF):Landsat8Band_12345679), 
+ Resize (Layer (Band 1:LC81200652013175LGN00_B4.TIF):Landsat8Band_12345679), 
+ Resize (Layer (Band 1:LC81200652013175LGN00_B5.TIF):Landsat8Band_12345679), 
+ Resize (Layer (Band 1:LC81200652013175LGN00_B6.TIF):Landsat8Band_12345679), 
+ Resize (Layer (Band 1:LC81200652013175LGN00_B7.TIF):Landsat8Band_12345679), 
+ Resize (Layer (Band 1:LC81200652013175LGN00_B9.TIF):Landsat8Band_12345679)}
